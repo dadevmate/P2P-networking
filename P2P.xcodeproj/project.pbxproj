@@ -13,6 +13,7 @@
 		58F9809029B7666700B62769 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58F9808E29B7666700B62769 /* Main.storyboard */; };
 		58F9809229B7666700B62769 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58F9809129B7666700B62769 /* Assets.xcassets */; };
 		58F9809529B7666700B62769 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58F9809329B7666700B62769 /* LaunchScreen.storyboard */; };
+		58F9809D29B7668000B62769 /* P2P.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58F9809C29B7668000B62769 /* P2P.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		58F9809129B7666700B62769 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58F9809429B7666700B62769 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58F9809629B7666700B62769 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58F9809C29B7668000B62769 /* P2P.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P2P.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				58F9808829B7666700B62769 /* AppDelegate.swift */,
 				58F9808A29B7666700B62769 /* SceneDelegate.swift */,
 				58F9808C29B7666700B62769 /* ViewController.swift */,
+				58F9809C29B7668000B62769 /* P2P.swift */,
 				58F9808E29B7666700B62769 /* Main.storyboard */,
 				58F9809129B7666700B62769 /* Assets.xcassets */,
 				58F9809329B7666700B62769 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				58F9808D29B7666700B62769 /* ViewController.swift in Sources */,
 				58F9808929B7666700B62769 /* AppDelegate.swift in Sources */,
+				58F9809D29B7668000B62769 /* P2P.swift in Sources */,
 				58F9808B29B7666700B62769 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
